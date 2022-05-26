@@ -22,8 +22,8 @@ footer:
   show_powered_by: false
   contact:
     - name: Email
-      value: gwyneth_miner [at] berkeley [dot] edu
-      # link: mailto:yourmail@domain.com
+      value: gwyneth_miner@berkeley.edu
+       link: mailto:gwyneth_miner@berkeley.edu
     # - name: WeChat
     #   value: YourWeChatUsername
     #   link: "#"
