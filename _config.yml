@@ -27,7 +27,7 @@ footer:
     # - name: WeChat
     #   value: YourWeChatUsername
     #   link: "#"
-  follow:
+  # follow:
     # - name: Twitter
     #   link: http://twitter.com/YourTwitterUsername
     #   username: "@YourTwitterUsername"
