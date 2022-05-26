@@ -22,15 +22,15 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: yourmail@domain.com
-      link: mailto:yourmail@domain.com
+      value: gwyneth_miner [at] berkeley [dot] edu
+      # link: mailto:yourmail@domain.com
     # - name: WeChat
     #   value: YourWeChatUsername
     #   link: "#"
   follow:
-    - name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
+    # - name: Twitter
+    #   link: http://twitter.com/YourTwitterUsername
+    #   username: "@YourTwitterUsername"
     # - name: Facebook
     #   link: http://facebook.com/YourFacebookUsername
     # - name: LinkedIn
