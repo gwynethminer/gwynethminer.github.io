@@ -6,5 +6,5 @@ profile_picture:
 ---
 
 <p>
-Welcome! I am a PhD candidate at UC Berkeley's Department of Economics. My research focuses on the constraints to migration in developing countries and the process of urbanization.
+Welcome! I am a PhD candidate at UC Berkeley's Department of Economics. My interests lie in development, labor, and spatial economics. My current research focuses on the constraints to migration in developing countries and the process of urbanization.
 </p>
