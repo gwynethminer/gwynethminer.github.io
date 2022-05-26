@@ -24,7 +24,7 @@
   float: left;
 
   img {
-    height: 28px;
+    height: 50px;
   }
 
   &,
@@ -98,7 +98,7 @@
  */
 .site-footer {
   // border-top: 1px solid $grey-color-light;
-  position: absolute;
+  // position: absolute;
   padding: $spacing-unit 0;
 
   @include media-query($on-mobile) {
