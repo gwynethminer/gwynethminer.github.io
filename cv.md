@@ -1,1 +1,1 @@
-You can find my CV here.
+You can find my CV [here]{{ site.baseurl }}{% link current_cv.pdf %}
