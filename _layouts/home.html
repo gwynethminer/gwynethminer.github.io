@@ -5,7 +5,7 @@
   <body>
     {% include header.html %}
 
-    <div class="home-content">
+    <div class="page-content">
       <div class="wrapper">
         <div class="home">
           <img
@@ -14,7 +14,10 @@
             class="profile-pic"
           />
 
-          {{ content }}
+          <div class="home-content">
+           
+            {{ content }}
+          </div>
         </div>
       </div>
     </div>
