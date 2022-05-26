@@ -23,7 +23,7 @@ footer:
   contact:
     - name: Email
       value: gwyneth_miner@berkeley.edu
-       link: mailto:gwyneth_miner@berkeley.edu
+      link: mailto:gwyneth_miner@berkeley.edu
     # - name: WeChat
     #   value: YourWeChatUsername
     #   link: "#"
