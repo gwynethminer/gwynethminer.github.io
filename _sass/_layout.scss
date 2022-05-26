@@ -5,8 +5,8 @@
   // border-bottom: 1px solid $grey-color-light;
   min-height: 56px;
 
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 
   @include media-query($on-mobile) {
     padding-top: 0;
