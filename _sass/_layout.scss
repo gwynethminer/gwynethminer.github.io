@@ -7,7 +7,7 @@
 
   border-top: 10px;
   border-bottom: 10px;
-  padding-top: 10px;
+  padding-top: 20px;
   padding-bottom: 10px;
 
   @include media-query($on-mobile) {
@@ -60,6 +60,7 @@
   .page-link:hover {
     // background-color: #555;
     color: $grey-color;
+    text-decoration: none;
     }
 
   @include media-query($on-mobile) {
@@ -74,7 +75,7 @@
     .menu-icon {
       display: block;
       float: right;
-      width: 36px;
+      width: 30px;
       height: 26px;
       line-height: 0;
       padding-top: 4px;
