@@ -18,12 +18,6 @@ items:
 
 ---
 
-<h2> Research
-</h2>
 
-<h3>
-<b>Constraints to Internal Migration</b>
-</h3>
-Details to follow.
-<br />
-<br />
+## Research
+Coming soon.
