@@ -18,9 +18,12 @@ items:
 
 ---
 
-<h4> Research
-</h4>
+<h2> Research
+</h2>
 
-Constraints to Internal Migration
+<h3>
+<b>Constraints to Internal Migration</b>
+</h3>
+Details to follow.
 <br />
 <br />
