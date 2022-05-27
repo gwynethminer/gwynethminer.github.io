@@ -26,7 +26,8 @@ figure {
  * Basic styling
  */
 body {
-  font-family: "Lato", $base-font-family;
+  font-family: "Lato", sans-serif;
+  // $base-font-family;
   font-size: $base-font-size;
   line-height: $base-line-height;
   font-weight: 300;
