@@ -7,7 +7,7 @@ items:
     image:
       src:
       alt:
-    description:
+    description: Coming soon
   - title: Welfare Effects on Outmigration
     image:
       src:
@@ -17,7 +17,7 @@ items:
     image:
       src:
       alt:
-    description: 
+    description:
 
 ---
 
