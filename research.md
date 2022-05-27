@@ -1,7 +1,7 @@
 ---
 layout: Research
 title: Research
-slug: /research
+slug: /work
 items:
   - title: Constraints to Internal Migration
     image:
